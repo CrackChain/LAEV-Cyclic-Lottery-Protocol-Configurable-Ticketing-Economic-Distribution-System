@@ -1,4 +1,4 @@
-# byL Cyclic Lottery Protocol — Configurable Ticketing & Economic Distribution System
+aery Protocol — Configurable Ticketing & Economic Distribution System
 
 A configurable round-based probabilistic ticketing system with dynamic entry pricing per cycle, wallet-managed asset states, secondary Ticketingransferability, and rule-defined percentage distribution of rewards, treasury, and liquidity within a structured economic execution engine.cution engine.
 
@@ -10,4 +10,4 @@ The system separates ownership, eligibility, and settlement into distinct layers
 
 Economic flows within each round are governed by a percentage-based distribution model applied to total collected value. These flows are allocated across three primary components: reward distribution, operational infrastructure, and liquidity incentives for asset transfer participants. This structure ensures that each round functions as a self-contained financial cycle with predictable configuration rules and transparent settlement logic.
 
-The model introduces a structured framework for recurring probabilistic selection systems combined with market-based asset circulation, enabling configurable, auditable, and repeatable execution cycles under a unified protocol architecture.Abstract
+The model introduces a structured framework for recurring probabilistic selection systems combined with market-based asset circulation, enabling configurable, auditable, and repeatable execution cycles under a unified protocol architecture.
